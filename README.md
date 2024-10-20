@@ -1,10 +1,10 @@
 # DIO Microsoft Azure Essentials - Resumão do Curso
 
-## O que é o Azure
+## O Que é o Azure
 
 O Azure é uma plataforma de computação em nuvem da Microsoft que oferece uma variedade de serviços, incluindo computação, armazenamento, análise e redes. Ele permite que empresas e desenvolvedores criem, implantem e gerenciem aplicativos e serviços por meio de datacenters globais. A flexibilidade e a escalabilidade do Azure fazem dele uma escolha popular para soluções em nuvem, atendendo tanto pequenas empresas quanto grandes corporações.
 
-## Criando uma conta no Azure
+## Criando uma Conta no Azure
 
 Para começar a usar o Azure, é necessário criar uma conta. O processo é simples e envolve as seguintes etapas:
 
@@ -14,7 +14,7 @@ Para começar a usar o Azure, é necessário criar uma conta. O processo é simp
 4. **Verificar a conta**: Siga as instruções para validar seu e-mail e, se necessário, seu número de telefone.
 5. **Explorar o portal**: Após a criação da conta, você pode acessar o portal do Azure para gerenciar serviços.
 
-## O portal do Azure
+## O Portal do Azure
 
 O portal do Azure é uma interface baseada na web que permite aos usuários gerenciar recursos e serviços na plataforma. Através dele, é possível:
 
@@ -39,7 +39,7 @@ A computação em nuvem oferece diversos benefícios que ajudam empresas a otimi
 
 ## Service Level Agreement
 
-Um Service Level Agreement (SLA) é um contrato que define os níveis de serviço esperados entre um provedor de serviços em nuvem e um cliente. Ele especifica as métricas de desempenho, como disponibilidade e tempo de resposta. No Azure, os SLAs geralmente oferecem percentuais de disponibilidade que variam de 99,9% a 99,99%, dependendo do serviço. Isso garante que os clientes tenham uma expectativa clara sobre a confiabilidade dos serviços que estão utilizando.
+Um Service Level Agreement (SLA) é um contrato que define os níveis de serviço esperados entre um provedor de serviços em nuvem e um cliente. Ele especifica as métricas de desempenho, como disponibilidade e tempo de resposta. No Azure, os SLAs geralmente oferecem percentuais de disponibilidade que variam de 99,9% a 99,99999%, dependendo do serviço. Isso garante que os clientes tenham uma expectativa clara sobre a confiabilidade dos serviços que estão utilizando.
 
 ## Como Criar uma Máquina Virtual
 
@@ -52,3 +52,34 @@ Criar uma máquina virtual no Azure é um processo simples e envolve algumas eta
 5. **Configurações adicionais**: Defina opções como autenticação, backup e monitoramento.
 
 Após a configuração, você pode iniciar a máquina virtual e gerenciá-la através do portal do Azure ou por meio de scripts automáticos.
+
+## Tipos de Serviço de Nuvem na Azure
+
+A Azure oferece três principais modelos de serviços em nuvem:
+
+- **IaaS (Infrastructure as a Service)**: Proporciona infraestrutura básica, como máquinas virtuais e redes. Exemplos incluem Azure Virtual Machines e Azure Virtual Networks.
+- **PaaS (Platform as a Service)**: Fornece uma plataforma completa para desenvolvimento, teste e implementação de aplicações, sem se preocupar com a infraestrutura subjacente. Exemplos incluem Azure App Service e Azure Functions.
+- **SaaS (Software as a Service)**: Oferece aplicativos prontos para uso, acessíveis via internet, como Microsoft 365 e Dynamics 365.
+
+Esses modelos permitem que as empresas escolham o nível de controle e responsabilidade que desejam ter sobre seus recursos em nuvem.
+
+## Modelo de Responsabilidade Compartilhada
+
+O modelo de responsabilidade compartilhada descreve as responsabilidades de segurança e conformidade entre o provedor de serviços em nuvem (Azure) e o cliente. No Azure, o provedor é responsável pela segurança da infraestrutura que compõe os serviços em nuvem, incluindo hardware, software, redes e instalações. Por outro lado, os clientes são responsáveis pela segurança de suas aplicações e dados, incluindo o gerenciamento de identidades, criptografia e configurações de rede. Este modelo ajuda as empresas a entenderem claramente onde suas responsabilidades começam e terminam.
+
+## Como Criar um Banco de Dados SQL
+
+Criar um banco de dados SQL no Azure é um processo direto que envolve algumas etapas:
+
+1. **Acessar o Portal do Azure**: Entre na sua conta do Azure e acesse o portal.
+2. **Selecionar "Criar um recurso"**: Clique na opção para criar um novo recurso.
+3. **Escolher "Banco de Dados SQL"**: Na seção de bancos de dados, selecione a opção para Banco de Dados SQL.
+4. **Configurar os detalhes do banco de dados**:
+   - **Nome**: Defina um nome exclusivo para o banco de dados.
+   - **Servidor**: Crie um novo servidor ou escolha um existente. Isso inclui definir a localização e a configuração de autenticação.
+   - **Recursos**: Escolha o nível de desempenho e as opções de escalabilidade, como DTUs ou vCores.
+5. **Configurações adicionais**: Configure opções como backup, segurança e firewall.
+6. **Revisar e criar**: Revise as configurações e clique em "Criar" para finalizar a implantação.
+
+Após a criação, você pode gerenciar o banco de dados através do portal do Azure ou usar ferramentas como o SQL Server Management Studio.
+
