@@ -24,3 +24,31 @@ O portal do Azure é uma interface baseada na web que permite aos usuários gere
 - **Acessar documentação e suporte**: Encontrar guias, tutoriais e recursos de ajuda.
 
 O portal é projetado para ser intuitivo, permitindo que usuários de todos os níveis de experiência naveguem e utilizem suas funcionalidades de forma eficiente.
+
+## Benefícios da Nuvem
+
+A computação em nuvem oferece diversos benefícios que ajudam empresas a otimizar seus recursos e operações. Alguns dos principais benefícios incluem:
+
+- **Escalabilidade**: Permite ajustar rapidamente a capacidade dos recursos de acordo com a demanda, garantindo que os serviços possam crescer ou diminuir conforme necessário.
+- **Elasticidade**: Os recursos podem ser provisionados e liberados automaticamente, permitindo que as empresas paguem apenas pelo que realmente utilizam.
+- **Confiabilidade**: A infraestrutura de nuvem é projetada para garantir alta disponibilidade e continuidade de negócios, minimizando o risco de falhas.
+- **Previsibilidade**: Com ferramentas de monitoramento e análise, as empresas podem prever tendências de uso e planejar melhor seus recursos.
+- **Segurança**: Fornece diversas camadas de segurança, incluindo criptografia, autenticação e controle de acesso, para proteger dados e aplicações.
+- **Governança**: Permite que as organizações implementem políticas e controles para garantir a conformidade e a gestão eficaz dos recursos.
+- **Gerenciabilidade**: Facilita o gerenciamento centralizado dos recursos, simplificando tarefas de administração e manutenção.
+
+## Service Level Agreement
+
+Um Service Level Agreement (SLA) é um contrato que define os níveis de serviço esperados entre um provedor de serviços em nuvem e um cliente. Ele especifica as métricas de desempenho, como disponibilidade e tempo de resposta. No Azure, os SLAs geralmente oferecem percentuais de disponibilidade que variam de 99,9% a 99,99%, dependendo do serviço. Isso garante que os clientes tenham uma expectativa clara sobre a confiabilidade dos serviços que estão utilizando.
+
+## Como Criar uma Máquina Virtual
+
+Criar uma máquina virtual no Azure é um processo simples e envolve algumas etapas principais. As opções disponíveis incluem:
+
+1. **Escolher o sistema operacional**: Você pode optar por diversas distribuições do Windows e Linux.
+2. **Selecionar a configuração da VM**: Escolha entre diferentes tamanhos e tipos de máquina, dependendo da carga de trabalho (ex: General Purpose, Compute Optimized).
+3. **Configurar armazenamento**: Escolha entre discos gerenciados ou não gerenciados, além de definir o tipo de armazenamento (SSD, HDD).
+4. **Definir rede**: Configure as definições de rede, incluindo segurança, grupos de segurança e sub-redes.
+5. **Configurações adicionais**: Defina opções como autenticação, backup e monitoramento.
+
+Após a configuração, você pode iniciar a máquina virtual e gerenciá-la através do portal do Azure ou por meio de scripts automáticos.
