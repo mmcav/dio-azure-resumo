@@ -106,3 +106,24 @@ Uma **assinatura do Azure** é uma forma de acessar os serviços do Azure e gere
 ## Grupos de Gerenciamento
 
 Os **grupos de gerenciamento** são uma camada hierárquica que permite organizar e gerenciar várias assinaturas do Azure de forma eficiente. Eles ajudam a aplicar políticas e controles de segurança em um conjunto de assinaturas, facilitando a governança e a conformidade em grandes organizações. Isso permite uma visão consolidada e um controle mais eficiente sobre os recursos do Azure.
+
+## Serviços de Computação do Azure
+
+O Azure oferece uma variedade de serviços de computação que permitem executar aplicações e gerenciar recursos de forma eficiente:
+
+- **Máquinas Virtuais**: Proporcionam a capacidade de executar sistemas operacionais e aplicativos na nuvem, permitindo que os usuários escolham o tamanho e as especificações da VM de acordo com suas necessidades.
+- **Conjuntos de Disponibilidade de Máquinas Virtuais**: Garantem que as VMs sejam implantadas em diferentes datacenters dentro da mesma região, aumentando a resiliência e a disponibilidade de aplicativos.
+- **Área de Trabalho Virtual do Azure**: Permite que os usuários acessem desktops e aplicativos de qualquer lugar, oferecendo uma experiência semelhante a um desktop físico na nuvem.
+- **Containers**: Facilita a criação, implantação e gerenciamento de aplicações em containers, permitindo uma abordagem mais ágil para o desenvolvimento e a operação.
+- **Serviços de Kubernetes do Azure (AKS)**: Oferece um serviço gerenciado para orquestrar containers usando Kubernetes, simplificando o gerenciamento de clusters e a implantação de aplicações.
+- **Azure Functions**: Um serviço de computação sem servidor que permite executar código em resposta a eventos, eliminando a necessidade de gerenciar servidores e infraestrutura.
+- **Serviços de Aplicativo do Azure**: Proporciona uma plataforma para criar e hospedar aplicativos web e APIs, oferecendo recursos integrados como escalabilidade e gerenciamento.
+
+## Serviços de Rede do Azure
+
+O Azure disponibiliza diversos serviços de rede que ajudam a conectar e gerenciar recursos de forma segura e eficiente:
+
+- **VNet (Virtual Network)**: Cria redes privadas isoladas na nuvem, permitindo que recursos se comuniquem de forma segura e eficiente.
+- **Gateway de VPN**: Facilita a conexão segura entre a rede local e a VNet no Azure através de uma conexão VPN, garantindo que os dados sejam transmitidos de forma segura.
+- **ExpressRoute**: Proporciona uma conexão privada e dedicada entre a infraestrutura local e o Azure, melhorando a segurança e a latência em comparação com conexões pela internet pública.
+- **DNS do Azure**: Um serviço de gerenciamento de nomes de domínio que fornece resolução de nomes para serviços e recursos dentro do Azure, além de suporte para domínios públicos.
