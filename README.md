@@ -83,3 +83,26 @@ Criar um banco de dados SQL no Azure é um processo direto que envolve algumas e
 
 Após a criação, você pode gerenciar o banco de dados através do portal do Azure ou usar ferramentas como o SQL Server Management Studio.
 
+## Regiões do Azure e Zonas de Disponibilidade
+
+O Azure está distribuído em diversas regiões ao redor do mundo, cada uma consistindo em um ou mais datacenters. As **Zonas de Disponibilidade** são um conjunto de datacenters em uma região que operam de forma independente para garantir alta disponibilidade e resiliência. Isso permite que os serviços permaneçam operacionais mesmo em caso de falhas em uma parte da infraestrutura.
+
+## Pares de Regiões
+
+Os **pares de regiões** no Azure são uma configuração que conecta duas regiões geográficas próximas. Essa configuração é utilizada para garantir a recuperação de desastres e alta disponibilidade, permitindo que os dados sejam replicados entre regiões. Por exemplo, se uma região falhar, a outra pode assumir as operações, minimizando a interrupção dos serviços.
+
+## Regiões Soberanas
+
+As **regiões soberanas** são datacenters do Azure que atendem a requisitos específicos de conformidade e soberania de dados de determinados países. Essas regiões garantem que os dados permaneçam dentro das fronteiras nacionais e cumpram regulamentos locais. Exemplos incluem a Microsoft Cloud Alemanha e a Microsoft Cloud para o Governo dos EUA.
+
+## Grupos de Recursos
+
+Os **grupos de recursos** são containers lógicos que permitem agrupar e gerenciar recursos do Azure. Eles facilitam a organização de recursos, como máquinas virtuais, bancos de dados e redes, e permitem a aplicação de políticas, controle de acesso e gerenciamento de custos de forma centralizada.
+
+## Assinaturas do Azure
+
+Uma **assinatura do Azure** é uma forma de acessar os serviços do Azure e gerenciar recursos. Cada assinatura possui limites de uso e pode incluir cobranças associadas. As organizações podem ter várias assinaturas para separar ambientes, como desenvolvimento, teste e produção, ou para diferentes departamentos ou projetos.
+
+## Grupos de Gerenciamento
+
+Os **grupos de gerenciamento** são uma camada hierárquica que permite organizar e gerenciar várias assinaturas do Azure de forma eficiente. Eles ajudam a aplicar políticas e controles de segurança em um conjunto de assinaturas, facilitando a governança e a conformidade em grandes organizações. Isso permite uma visão consolidada e um controle mais eficiente sobre os recursos do Azure.
