@@ -1,6 +1,6 @@
 # DIO Microsoft Azure Essentials - Resumão do Curso
 
-## O Que é o Azure
+## O que é o Azure
 
 O Azure é uma plataforma de computação em nuvem da Microsoft que oferece uma variedade de serviços, incluindo computação, armazenamento, análise e redes. Ele permite que empresas e desenvolvedores criem, implantem e gerenciem aplicativos e serviços por meio de datacenters globais. A flexibilidade e a escalabilidade do Azure fazem dele uma escolha popular para soluções em nuvem, atendendo tanto pequenas empresas quanto grandes corporações.
 
@@ -155,3 +155,38 @@ O gerenciamento de dados no Azure é facilitado por várias ferramentas e servi�
 
 - **Gerenciador de Armazenamento do Azure**: Um painel centralizado que permite monitorar e gerenciar contas de armazenamento, configurações e acesso a dados de forma intuitiva.
 - **Sincronização de Arquivos do Azure**: Permite que arquivos em um servidor local sejam sincronizados com o armazenamento do Azure, garantindo que os dados estejam sempre atualizados e disponíveis em múltiplas localizações.
+
+## Identidade, Acesso e Segurança
+
+O Azure oferece uma ampla gama de ferramentas e serviços para gerenciar identidades, acesso e segurança, garantindo que apenas usuários autorizados possam acessar recursos e dados críticos.
+
+## Autenticação e Autorização
+
+A autenticação e autorização são essenciais para a segurança. O Azure suporta várias formas de autenticação, incluindo:
+
+- **MFA (Autenticação Multifatorial)**: Adiciona uma camada extra de segurança, exigindo que os usuários forneçam duas ou mais formas de verificação antes de acessar um recurso.
+
+## Microsoft Entra ID e Microsoft Entra Domain Services
+
+- **Microsoft Entra ID**: É um serviço de gerenciamento de identidade e acesso que permite gerenciar usuários e grupos, além de fornecer autenticação para aplicações.
+- **Microsoft Entra Domain Services**: Proporciona serviços de domínio gerenciados na nuvem, permitindo que aplicativos e serviços utilizem autenticação de diretório sem a necessidade de implantar controladores de domínio.
+
+## Azure Active Directory
+
+O **Azure Active Directory (Azure AD)** é um serviço de gerenciamento de identidade e acesso baseado em nuvem. Ele permite que os usuários acessem aplicativos e recursos de forma segura, integrando autenticação, autorização e gerenciamento de usuários em uma única plataforma.
+
+## Acesso Condicional do Microsoft Entra
+
+O **Acesso Condicional** permite implementar políticas de segurança com base em condições específicas, como localização do usuário ou dispositivo. Isso ajuda a garantir que apenas os usuários com condições seguras possam acessar determinados recursos.
+
+## Controle de Acesso Baseado em Função
+
+O **Controle de Acesso Baseado em Função (RBAC)** permite gerenciar quem pode acessar recursos no Azure, definindo permissões com base nas funções atribuídas aos usuários. Isso garante que os usuários tenham apenas os níveis de acesso necessários para suas funções.
+
+## Confiança Zero e Defesa em Profundidade
+
+A abordagem de **Confiança Zero** implica que nenhuma entidade, interna ou externa, deve ser automaticamente confiável. Todas as tentativas de acesso devem ser verificadas. A **Defesa em Profundidade** utiliza múltiplas camadas de segurança para proteger os dados, garantindo que se uma camada for comprometida, outras ainda estão em vigor para proteger os recursos.
+
+## Microsoft Defender para a Nuvem
+
+O **Microsoft Defender para a Nuvem** é uma solução de segurança integrada que fornece proteção contra ameaças, monitoramento de segurança e avaliações de conformidade. Ele ajuda a proteger a infraestrutura e os dados no Azure, além de fornecer recomendações de segurança personalizadas.
