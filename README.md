@@ -239,3 +239,14 @@ O Azure Arc é uma solução que estende os serviços e a gestão do Azure a amb
 
 O Azure Bicep é uma linguagem de modelagem de infraestrutura como código que simplifica a criação de templates para o Azure Resource Manager. Ele oferece uma sintaxe mais limpa e legível em comparação com JSON, tornando mais fácil a definição e o gerenciamento de recursos no Azure. Com o Bicep, os desenvolvedores podem acelerar o desenvolvimento e a manutenção de suas infraestruturas na nuvem.
 
+## Assistente do Azure
+
+O Assistente do Azure é uma ferramenta que ajuda os usuários a gerenciar e otimizar seus serviços na nuvem. Ele fornece recomendações personalizadas, orientações sobre melhores práticas e suporte em tempo real para resolver problemas comuns. O Assistente do Azure é projetado para simplificar a experiência do usuário, tornando mais fácil a navegação e a utilização dos recursos disponíveis.
+
+## Integridade do Serviço do Azure
+
+A Integridade do Serviço do Azure é uma plataforma que fornece informações sobre o status dos serviços do Azure em tempo real. Os usuários podem acessar relatórios de incidentes, manutenção programada e atualizações sobre o desempenho dos serviços. Isso ajuda as organizações a entender melhor a disponibilidade dos serviços e a planejar suas operações de forma eficaz, minimizando interrupções.
+
+## Azure Monitor
+
+O Azure Monitor é uma solução abrangente de monitoramento que fornece insights sobre o desempenho e a integridade dos aplicativos e serviços no Azure. Ele coleta e analisa dados de logs, métricas e diagnósticos, permitindo que os usuários detectem e resolvam problemas rapidamente. Com recursos de alertas e painéis personalizáveis, o Azure Monitor ajuda as organizações a otimizar suas operações na nuvem e a garantir a continuidade dos serviços.
