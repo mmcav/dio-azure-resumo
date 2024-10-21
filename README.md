@@ -211,3 +211,18 @@ O Gerenciamento de Custos do Azure é um conjunto de ferramentas e práticas que
 
 As tags são um recurso valioso no Azure que permite categorizar e organizar recursos para melhor gerenciamento e controle de custos. Ao atribuir tags a diferentes recursos, as empresas podem rastrear despesas de maneira mais eficaz e gerar relatórios detalhados sobre o uso e os custos por departamento, projeto ou equipe. Isso facilita a análise de despesas e ajuda a identificar oportunidades de economia.
 
+## Governança e Conformidade
+
+A governança e conformidade na nuvem Azure são fundamentais para garantir que as organizações operem dentro de diretrizes regulatórias e políticas internas. A Azure fornece ferramentas e práticas que ajudam a implementar controles, monitorar a conformidade e gerenciar riscos, assegurando que os dados e recursos estejam protegidos e em conformidade com as normas legais e de segurança.
+
+## Azure Policy
+
+O Azure Policy é uma ferramenta que permite às organizações criar, atribuir e gerenciar políticas que asseguram a conformidade dos recursos no Azure. Com ele, os administradores podem definir regras e efeitos que se aplicam a recursos específicos, garantindo que esses recursos atendam aos padrões corporativos e regulatórios. Isso ajuda a prevenir a criação de recursos não conformes e facilita a auditoria.
+
+## Microsoft Purview
+
+O Microsoft Purview é uma solução abrangente para governança de dados que permite às organizações descobrir, classificar e proteger seus dados em ambientes híbridos e de múltiplas nuvens. Ele oferece funcionalidades para mapear dados, entender suas origens e garantir que estejam em conformidade com as políticas de privacidade e regulamentações. Isso facilita a gestão e proteção dos dados sensíveis da organização.
+
+## Portal de Confiança do Serviço
+
+O Portal de Confiança do Serviço é uma plataforma que fornece informações detalhadas sobre a conformidade, segurança e privacidade dos serviços da Azure. Ele inclui relatórios de auditoria, certificações e detalhes sobre as práticas de segurança da Microsoft, permitindo que as organizações avaliem a confiabilidade dos serviços utilizados. Esse portal é uma ferramenta valiosa para empresas que buscam garantir que seus dados estejam protegidos e em conformidade.
