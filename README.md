@@ -226,3 +226,16 @@ O Microsoft Purview é uma solução abrangente para governança de dados que pe
 ## Portal de Confiança do Serviço
 
 O Portal de Confiança do Serviço é uma plataforma que fornece informações detalhadas sobre a conformidade, segurança e privacidade dos serviços da Azure. Ele inclui relatórios de auditoria, certificações e detalhes sobre as práticas de segurança da Microsoft, permitindo que as organizações avaliem a confiabilidade dos serviços utilizados. Esse portal é uma ferramenta valiosa para empresas que buscam garantir que seus dados estejam protegidos e em conformidade.
+
+## Azure Resource Manager
+
+O Azure Resource Manager (ARM) é a plataforma de gerenciamento de recursos do Azure que permite criar, atualizar e excluir recursos em uma conta do Azure. Com o ARM, os usuários podem implantar e gerenciar recursos de forma consistente e em grupos, facilitando a organização e a governança. Ele também oferece suporte para modelos de implantação, permitindo automação e controle de versão.
+
+## Azure Arc
+
+O Azure Arc é uma solução que estende os serviços e a gestão do Azure a ambientes híbridos e multicloud. Ele permite que os usuários gerenciem servidores, Kubernetes e bancos de dados fora do Azure, utilizando a mesma interface e ferramentas. Com o Azure Arc, as organizações podem unificar a governança e a segurança, além de aplicar políticas de conformidade em recursos que estão em qualquer lugar.
+
+## Azure Bicep
+
+O Azure Bicep é uma linguagem de modelagem de infraestrutura como código que simplifica a criação de templates para o Azure Resource Manager. Ele oferece uma sintaxe mais limpa e legível em comparação com JSON, tornando mais fácil a definição e o gerenciamento de recursos no Azure. Com o Bicep, os desenvolvedores podem acelerar o desenvolvimento e a manutenção de suas infraestruturas na nuvem.
+
