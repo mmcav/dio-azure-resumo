@@ -190,3 +190,24 @@ A abordagem de **Confiança Zero** implica que nenhuma entidade, interna ou exte
 ## Microsoft Defender para a Nuvem
 
 O **Microsoft Defender para a Nuvem** é uma solução de segurança integrada que fornece proteção contra ameaças, monitoramento de segurança e avaliações de conformidade. Ele ajuda a proteger a infraestrutura e os dados no Azure, além de fornecer recomendações de segurança personalizadas.
+
+## Azure Marketplace
+
+O Azure Marketplace é uma plataforma que permite aos usuários encontrar, testar e adquirir aplicações e serviços baseados em nuvem. Ele oferece uma ampla gama de soluções de diferentes fornecedores, que vão desde software como serviço (SaaS) até infraestrutura como serviço (IaaS). Os usuários podem acessar soluções que atendem a diversas necessidades empresariais, facilitando a integração e a implementação de tecnologias no ambiente Azure.
+
+## Calculadora de Preços
+
+A Calculadora de Preços do Azure é uma ferramenta essencial que permite aos usuários estimar os custos dos serviços da Microsoft Azure antes de se comprometerem com uma assinatura. A calculadora permite que os usuários selecionem serviços específicos, ajustem configurações e vejam uma estimativa detalhada dos custos mensais, ajudando na tomada de decisões financeiras mais informadas.
+
+## Calculadora de Custo Total de Propriedade
+
+A Calculadora de Custo Total de Propriedade (TCO) do Azure oferece uma análise abrangente dos custos envolvidos na operação de um ambiente de TI na nuvem em comparação com soluções locais. Essa ferramenta considera diversos fatores, como custos de hardware, software, manutenção e operação, proporcionando uma visão clara dos benefícios econômicos de migrar para o Azure.
+
+## Gerenciamento de Custos do Azure
+
+O Gerenciamento de Custos do Azure é um conjunto de ferramentas e práticas que ajuda as organizações a monitorar, analisar e otimizar seus gastos na nuvem. Ele inclui recursos como relatórios de uso, alertas de gastos e recomendações de economia. Essa abordagem proativa permite que as empresas mantenham os custos sob controle e maximizem o valor de seus investimentos em nuvem.
+
+## Tags e Cobranças
+
+As tags são um recurso valioso no Azure que permite categorizar e organizar recursos para melhor gerenciamento e controle de custos. Ao atribuir tags a diferentes recursos, as empresas podem rastrear despesas de maneira mais eficaz e gerar relatórios detalhados sobre o uso e os custos por departamento, projeto ou equipe. Isso facilita a análise de despesas e ajuda a identificar oportunidades de economia.
+
